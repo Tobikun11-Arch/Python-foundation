@@ -16,3 +16,8 @@ else:
 number = [10, 20, 40]
 f,g,h = number
 print(f,g,h)
+
+
+name = input("Please input your name: ")
+print("Welcome mr/ms/mrs " + name)
+
