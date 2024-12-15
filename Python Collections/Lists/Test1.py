@@ -68,8 +68,3 @@ while int < len(subjects): #while loop
 
 for i in subjects:
     print(f"subjects is {i}")
-
-
-
-
-
